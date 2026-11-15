@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Husseinpenart\\Desktop\\object-storage-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C395B-F3D5-40FC-A885-B26B5720DE12}|object-storage-project.csproj|c:\\users\\husseinpenart\\desktop\\object-storage-project\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{EF8C395B-F3D5-40FC-A885-B26B5720DE12}|object-storage-project.csproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C395B-F3D5-40FC-A885-B26B5720DE12}|object-storage-project.csproj|c:\\users\\husseinpenart\\desktop\\object-storage-project\\object-storage-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF8C395B-F3D5-40FC-A885-B26B5720DE12}|object-storage-project.csproj|solutionrelative:object-storage-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Husseinpenart\\Desktop\\object-storage-project\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Husseinpenart\\Desktop\\object-storage-project\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-11-14T17:20:07.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "object-storage-project",
+              "DocumentMoniker": "C:\\Users\\Husseinpenart\\Desktop\\object-storage-project\\object-storage-project.csproj",
+              "RelativeDocumentMoniker": "object-storage-project.csproj",
+              "ToolTip": "C:\\Users\\Husseinpenart\\Desktop\\object-storage-project\\object-storage-project.csproj",
+              "RelativeToolTip": "object-storage-project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-14T17:19:15.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
